@@ -1,0 +1,27 @@
+{
+  "name": "simkimsia/webbot",
+  "version": "0.1.0",
+  "description": "Webbot written in PHP",
+  "keywords": [
+    "webbot", "php"
+  ],
+  "homepage": "http://github.com/simkimsia/webbot",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kim Stacks",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Shay Anderson",
+      "role": "Author"
+    }
+  ],
+  "require": {
+    "composer/installers": "*"
+  },
+  "support": {
+    "issues": "https://github.com/simkimsia/webbot/issues",
+    "source": "https://github.com/simkimsia/webbot"
+  }
+}
